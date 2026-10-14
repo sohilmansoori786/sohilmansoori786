@@ -32,6 +32,52 @@ Building modern web applications with clean UI, robust APIs, and secure backend 
 
 ---
 
+---
+
+## 🌱 My Developer Journey
+
+> From learning my first programming language to building real-world applications — one step at a time.
+
+🎓 **Currently:** B.Tech CSE Student at AKGEC
+
+💻 **My Journey So Far**
+
+- 🌱 Started with C programming and problem-solving fundamentals.
+- 🟨 Exploring JavaScript and modern web development.
+- ⚙️ Learning backend development with Node.js and Express.js.
+- 🗄️ Working with MongoDB and REST API development.
+- 🔐 Implementing authentication, JWT, OTP verification, and
+  role-based authorization.
+- 🤖 Exploring how backend applications integrate with ML APIs.
+- 🚀 Working towards becoming a skilled Full Stack Developer.
+
+### 🛠️ What I'm Building
+
+**Opportunity Hub — Event Management System**
+
+A collaborative project where I'm learning to build secure APIs,
+manage users and events, and integrate external ML services.
+
+🔗 [Explore the Project](https://github.com/sohilmansoori786/GROUP-TASK-CCC)
+
+### 🎯 My Current Focus
+
+- Strengthening JavaScript and Node.js fundamentals
+- Improving problem-solving and DSA
+- Learning frontend development and full-stack integration
+- Building, testing, and deploying real-world projects
+- Writing cleaner, more secure, maintainable code
+
+### 📈 My Growth Mindset
+
+I believe in learning by building, improving through mistakes,
+and staying consistent every day.
+
+**Every commit is a step forward. Every project is a new lesson.** 💙
+
+---
+
+
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
